@@ -12,4 +12,4 @@ This repository contains the teaching materials for STAT 7780: Survival Analysis
 ## 03. Nonparametric Estimation 
 
 - [drug6mp](SAScodes-2024/03-channing.sas)
-- [males] (SAScodes-2024/03-males.sas)
+- [males](SAScodes-2024/03-males.sas)
