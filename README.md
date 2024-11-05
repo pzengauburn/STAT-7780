@@ -15,7 +15,7 @@ This repository contains the teaching materials for STAT 7780: Survival Analysis
 - [SAS](SAScodes-2024/03-channing.sas): Channing house 
 - [SAS](SAScodes-2024/03-males.sas): Males with angina pectoris 
 - [SAS](SAScodes-2024/weaning.sas): Time to weaning 
-- [SAS](SAScodes-2024/weibull-MLE.R): Newton-Raphson algorithm 
+- [R](SAScodes-2024/weibull-MLE.R): Newton-Raphson algorithm 
 
 ## 04. Inference for Two or More Samples 
 ## 05. Parametric Regression Models 
